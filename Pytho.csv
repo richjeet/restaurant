@@ -1,0 +1,37 @@
+Gender,Age,Religion,Zipcode,Income,DeliveryTime,OrderPortal,PastMonthOrder,MonthlyExpenseFood,MonthlyExpenseGrocery,PlanningDineOut
+Female,28,Buddhism,95050,45000,23,DoorDash,5,200,350,2-4 times in a week
+Male,32,Hinduism,95551,50000,45,UberEats,9,200,580,2-4 times in a week
+Female,35,Islam,94539,20000,15,DoorDash,0,200,200,Once in 2-3 weeks 
+Female,34,Islam,94939,5000,15,DoorDash,0,150,700,Once in a week
+Male,39,Islam,95051,96000,15,DoorDash,2,750,500,once in 2 weeks
+Female,27,Catholic,94597,150000,10,DoorDash,3,700,1000,On the weekends
+Male,31,Islam,94538,45000,15,DoorDash,7,150,50,Once in a week
+Female,27,Catholic,95008,120000,15,DoorDash,2,100,150,On the weekends
+Female,29,Islam,94544,110000,15,DoorDash,20,250,100,Once in a week
+Female,32,Hinduism,94551,150000,30,UberEats,3,100,200,Once in a week
+Female,48,Not Religious,95070,65000,30,GrubHub,1,2000,1000,Once in a week
+Female,31,Buddhism,95111,150000,20,DoorDash,0,30,40,Once a month
+Prefer not to say,28,Not Religious,94537,100000,5,Call a Friend,4,98.89,150,On the weekends
+Prefer not to say,55,Catholic,56401,123456,23,DoorDash,4,354,300,2-4 times in a week
+Female,35,Catholic,94544,60000,20,DoorDash,10,500,500,2-4 times in a week
+Female,33,Hinduism,94551,295000,35,UberEats,10,500,800,On the weekends
+Female,25,Buddhism,94538,60000,20,Recipo,8,600,800,Once in a week
+Female,29,Islam,94539,25000,10,DoorDash,0,45,100,Once in a week
+Female,12,Buddhism,12345,456678,30,DoorDash,21,323,123,Once in a week
+Female,23,Not Religious,94538,100000,15,UberEats,1,300,1250,Once in a week
+Other,27,Judaism,94538,200000,15,UberEats,4,1000,200,On the weekends
+Female,24,Not Religious,95054,240000,20,DoorDash,3,800,500,2-4 times in a week
+Female,36,Catholic,94538,100000,25,UberEats,5,150,150,2-4 times in a week
+Male,43,Not Religious,94538,300000,22,DoorDash,15,120,500,2-4 times in a week
+Male,37,Catholic,94103,200000,20,UberEats,5,300,350,2-4 times in a week
+Male,38,Judaism,94539,5000,5,DoorDash,9,150,200,Once in a week
+Female,25,Catholic,94539,4000,8,Uber,2,50,350,On the weekends
+Male,40,Other,94538,100000,15,DoorDash,3,350,250,On the weekends
+Prefer not to say,45,Buddhism,94549,10000,3,Nothing,2,400,80,Everyday in a week
+Male,39,Other,94536,120000,15,DoorDash,5,400,300,On the weekends
+Male,70,Other,94538,110000,15,GrubHub,6,400,250,On the weekends
+Female,65,Other,94536,105000,15,UberEats,5,350,300,Once in a week
+Female,75,Not Religious,94568,50000,14,GrubHub,4,95,250,once a month
+Female,24,Hinduism,94539,40000,30,DoorDash,1,25,50,Monthly twice
+Male,37,Catholic,94103,200000,75,UberEats,5,300,350,2-4 times in a week
+Female,32,Islam,94539,200000,60,UberEats,2,100,20,Once in a week
